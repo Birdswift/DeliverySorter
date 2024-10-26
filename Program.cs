@@ -34,7 +34,7 @@ namespace Sorter
             string[] arr = args[0].Split(",");
             if (ConsoleInputValidator(arr))//валидация ввода с комадной строки
             {
-                Reader("input.txt");//запуск ридера для чтения данных из файла с заказами
+                Reader(@"C:\Users\gkras\source\repos\DeliverySorter\input.txt");//запуск ридера для чтения данных из файла с заказами
 
                 Console.WriteLine($"Check the result by path {_deliveryOrder}");
             } else

@@ -1,0 +1,6 @@
+Id: 1 Date : 10/01/2023 10:00:00 District: District A Weight 5
+Id: 3 Date : 10/01/2023 10:30:00 District: District A Weight 3
+Id: 6 Date : 10/01/2023 10:07:00 District: District A Weight 4
+Id: 7 Date : 10/01/2023 10:20:00 District: District A Weight 6
+Id: 9 Date : 10/01/2023 10:10:00 District: District A Weight 4.5
+Id: 25 Date : 10/01/2023 10:11:00 District: District A Weight 6

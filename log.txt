@@ -1,0 +1,35 @@
+|10/26/2024 22:21:32| Info: received new data District A 2023-10-01 10:00:00 C:\Users\gkras\source\repos\DeliverySorter\log.txt C:\Users\gkras\source\repos\DeliverySorter\res.txt
+|10/26/2024 22:21:32| Info: All parameters are read
+|10/26/2024 22:21:32| Info: File is reading...
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Formatting is OK
+|10/26/2024 22:21:32| Info: Filtrating and writing...
+|10/26/2024 22:21:32| Info: All done!
