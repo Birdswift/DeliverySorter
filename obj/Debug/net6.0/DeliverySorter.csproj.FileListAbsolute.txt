@@ -1,0 +1,15 @@
+C:\Users\gkras\source\repos\DeliverySorter\bin\Debug\net6.0\DeliverySorter.exe
+C:\Users\gkras\source\repos\DeliverySorter\bin\Debug\net6.0\DeliverySorter.deps.json
+C:\Users\gkras\source\repos\DeliverySorter\bin\Debug\net6.0\DeliverySorter.runtimeconfig.json
+C:\Users\gkras\source\repos\DeliverySorter\bin\Debug\net6.0\DeliverySorter.dll
+C:\Users\gkras\source\repos\DeliverySorter\bin\Debug\net6.0\DeliverySorter.pdb
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.csproj.AssemblyReference.cache
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.AssemblyInfoInputs.cache
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.AssemblyInfo.cs
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.csproj.CoreCompileInputs.cache
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.dll
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\refint\DeliverySorter.dll
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.pdb
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\DeliverySorter.genruntimeconfig.cache
+C:\Users\gkras\source\repos\DeliverySorter\obj\Debug\net6.0\ref\DeliverySorter.dll
